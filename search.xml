@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>标题</title>
+      <link href="/2020/04/27/test/"/>
+      <url>/2020/04/27/test/</url>
+      
+        <content type="html"><![CDATA[<p>mathjax 是是否开启数学公式支持</p><p>上面这部分是摘要</p><a id="more"></a><p>下面是正文，注意 more 前后空一排，avatar 是作者头像</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 标签 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>数学测试</title>
       <link href="/2020/04/27/math/"/>
       <url>/2020/04/27/math/</url>
